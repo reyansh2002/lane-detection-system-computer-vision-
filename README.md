@@ -59,7 +59,7 @@ main.py
 ## 📷 Example Output
 
 The program reads frames from `test2.mp4`, detects lanes, and displays the output with overlayed lane lines.
-![image alt](https://github.com/reyansh2002/lane-detection-system-computer-vision-/blob/main/frame%2006-05-2023%2016_33_09.png)
+![image alt](https://github.com/reyansh2002/lane-detection-system-computer-vision-/blob/main/output.png)
 
 ## 🔥 Improvements & Future Work
 
